@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <parakidshome/>
 </template>
 
 <script>

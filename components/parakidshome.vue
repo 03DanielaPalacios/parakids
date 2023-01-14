@@ -1,28 +1,32 @@
 <template>
 	<div>
 	<div>
-		<br>	<h1> <b> Daniela Palacios </b></h1>
+		<h1> <b> Daniela Palacios </b></h1> 
+	
+	
 	
 	
 
 
+		
 
-		<hr width="500px;"
-	size="1.3"
-	color="black" >
+	<h5> My name is Daniela Palacios. I am currently a freshman at Columbia University studying Economics-Political Science. I am also the creator of Para KIDS!, a media company that publishes bilingual children’s stories with immigrant characters. I am the proud author of a forthcoming Spanish bilingual children’s book, <br>“Sara’s New Country and New Friend / El nuevo país y la nueva amiga de Sara" </h5>
 
-	<h5> Daniela Palacios is a freshman at Columbia University studying Economics-Political Science. She is the creator of Para KIDS!, a media company that publishes bilingual children’s stories with immigrant characters. Daniela is the author of a forthcoming Spanish bilingual children’s book, <br>“Sara’s New Country and New Friend/ El nuevo país y la nueva amiga de Sara.” </h5>
+
 	<img id="Headshot" src="Headshot.JPEG" alt="Daniela Palacios Headshot">    </div>
+	
 
 	<br> 
+	
+
+	<h3 id="resume"> <a href="/DanielaPalaciosResume.pdf">Resume</a> 
+	<br> <br>  <a href="https://www.linkedin.com/in/daniela-palacios/"> LinkedIn</a>
+	<br> <br>  <a href="mailto:dp3172@columbia.edu"> Email</a>  </h3>
+	
 	<hr  
 	 width="700px;"
 	size="1.3"
 	color="black" >
-
-	<h3 id="resume"> <a href="/DanielaPalaciosResume.pdf">Resume</a> 
-	<br> <br>  <a href="https://www.linkedin.com/in/daniela-palacios/"> LinkedIn</a> </h3>
-
 
 	<div class="organizations">
 
@@ -32,19 +36,27 @@
 		<img id="banner" src="banner.png" alt="Para KIDS! banner" />
      
         <h4>Founder of <a href="https://parakidsbooks.wixsite.com/mysite">Para KIDS!</a>, a bilingual children's book company.</h4>
-        <img width="300px" src="cover.jpg">  
-		
+        <img width="300px" src="cover.jpg">  <br> <br>
+		 
+		 <hr  
+	 width="700px;"
+	size="1.3"
+	color="black" >
+
 	<h2> 
 	<span>Organizations</span></h2>
 
-	<h4>Columbia Organization of Rising Entrepreneurs <a href="https://parakidsbooks.wixsite.com/mysite"></a> </h4>
-	<img id="core" src="core.jpeg" alt="CORE logo">
+	<img id="core" src="core.jpeg" alt="CORE logo"></img>
+	<h4><a href="https://parakidsbooks.wixsite.com/mysite"> Columbia Organization of Rising Entrepreneurs </a> </h4>
+	
 
-	<h4>Phi Gamma Nu <a href="https://www.pgnleaders.org/columbia-university"></a> </h4>
-	<img id="pgn" src="pgn.png" alt="PGN logo">
+	<img id="pgn" src="pgn.png" alt="PGN logo"> 
+	<h4><a href="https://www.pgnleaders.org/columbia-university">Phi Gamma Nu</a> </h4>
 
-	<h4>Girls Who Invest <a href="https://www.girlswhoinvest.org/"></a> </h4>
+
 	<img id="gwi" src="gwi.png" alt="GWI logo">
+</img>	<h4> <a href="https://www.girlswhoinvest.org/">Girls Who Invest</a> </h4>
+
 </div> 
 	
 
@@ -71,6 +83,9 @@ h1 {
 outline-style:inherit;
 outline-color: #3E2818;
 outline-offset: 0px;
+	background-color: #FF914D;
+	padding: 50px; 
+	color: white;
 }
 
 h5 {
@@ -199,4 +214,15 @@ text-align: center;
   background-color: whitesmoke;
   transition: background-color 2s, transform 2s;
   }
+
+
+
+
 </style>
+
+<script> 
+
+
+
+
+</script>

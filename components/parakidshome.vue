@@ -47,7 +47,7 @@
 	<span>Organizations</span></h2>
 
 	<img id="core" src="core.jpeg" alt="CORE logo"></img>
-	<h4><a href="https://parakidsbooks.wixsite.com/mysite"> Columbia Organization of Rising Entrepreneurs </a> </h4>
+	<h4><a href="https://www.facebook.com/COREatCU/"> Columbia Organization of Rising Entrepreneurs </a> </h4>
 	
 
 	<img id="pgn" src="pgn.png" alt="PGN logo"> 
@@ -91,7 +91,7 @@ outline-offset: 0px;
 h5 {
 	font-size: 20px;
 	text-align: center;
-	line-height: 1.5;}
+	line-height: 1.6;}
 
 
 span {
